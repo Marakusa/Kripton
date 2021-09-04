@@ -1,0 +1,21 @@
+{
+    "name": "kripton",
+    "displayName": "Kripton",
+    "description": "Theme for VS Code representing the GTK3/4 Kripton theme created by eliverlara.",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kripton",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kripton-color-theme.json"
+            }
+        ]
+    }
+}
